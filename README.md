@@ -1,4 +1,4 @@
-# Breast Cancer Survival Prediction ![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://breast-cancer-survival-pred.streamlit.app/)
+# Breast Cancer Survival Prediction [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://breast-cancer-survival-pred.streamlit.app/)
 
 This project aims to predict the survival rate of breast cancer patients based on various features. It utilizes a CatBoost model trained on a dataset containing information about patients such as age, gender, tumor stage, protein levels and treatment history.
 
