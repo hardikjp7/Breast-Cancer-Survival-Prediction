@@ -21,11 +21,11 @@ This project aims to predict the survival rate of breast cancer patients based o
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/breast-cancer-survival-prediction.git
+   git clone https://github.com/hardikjp7/Breast-Cancer-Survival-Prediction.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd breast-cancer-survival-prediction
+   cd Breast-Cancer-Survival-Prediction
    ```
 3. Install the required dependencies:
    ```sh
